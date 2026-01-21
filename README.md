@@ -91,3 +91,4 @@ Voir [ARCHITECTURE.md](ARCHITECTURE.md) pour les détails techniques.
 ## 📸 Captures d'écran
 *(Ajoutez ici vos captures d'écran de l'interface Streamlit)*
 "# BarreDeRecherche" 
+"# BarreDeRecherche" 
