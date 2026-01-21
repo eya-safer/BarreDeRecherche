@@ -1,0 +1,55 @@
+id,title,url,length_chars
+1,Artificial intelligence,https://en.wikipedia.org/wiki/Artificial_intelligence,89997
+2,Machine learning,https://en.wikipedia.org/wiki/Machine_learning,59604
+3,Deep learning,https://en.wikipedia.org/wiki/Deep_learning,56564
+4,Natural language processing,https://en.wikipedia.org/wiki/Natural_language_processing,32394
+5,Computer vision,https://en.wikipedia.org/wiki/Computer_vision,38867
+6,Python (programming language),https://en.wikipedia.org/wiki/Python_(programming_language),39176
+7,Java (programming language),https://en.wikipedia.org/wiki/Java_(programming_language),26383
+8,C++,https://en.wikipedia.org/wiki/C%2B%2B,20397
+9,JavaScript,https://en.wikipedia.org/wiki/JavaScript,34018
+10,Rust (programming language),https://en.wikipedia.org/wiki/Rust_(programming_language),35408
+11,Internet,https://en.wikipedia.org/wiki/Internet,53528
+12,World Wide Web,https://en.wikipedia.org/wiki/World_Wide_Web,44205
+13,Search engine,https://en.wikipedia.org/wiki/Search_engine,37088
+14,Database,https://en.wikipedia.org/wiki/Database,58564
+15,Cloud computing,https://en.wikipedia.org/wiki/Cloud_computing,38259
+16,Physics,https://en.wikipedia.org/wiki/Physics,36270
+17,Chemistry,https://en.wikipedia.org/wiki/Chemistry,45009
+18,Biology,https://en.wikipedia.org/wiki/Biology,53779
+19,Astronomy,https://en.wikipedia.org/wiki/Astronomy,29769
+20,Quantum mechanics,https://en.wikipedia.org/wiki/Quantum_mechanics,77419
+21,History of the Internet,https://en.wikipedia.org/wiki/History_of_the_Internet,90622
+22,Industrial Revolution,https://en.wikipedia.org/wiki/Industrial_Revolution,113827
+23,World War II,https://en.wikipedia.org/wiki/World_War_II,85856
+24,Geography,https://en.wikipedia.org/wiki/Geography,35884
+25,Climate change,https://en.wikipedia.org/wiki/Climate_change,63778
+26,Lionel Messi,https://en.wikipedia.org/wiki/Lionel_Messi,70148
+27,Cristiano Ronaldo,https://en.wikipedia.org/wiki/Cristiano_Ronaldo,69281
+28,Basketball,https://en.wikipedia.org/wiki/Basketball,60544
+29,Tennis,https://en.wikipedia.org/wiki/Tennis,68854
+30,Olympic Games,https://en.wikipedia.org/wiki/Olympic_Games,86146
+31,Wolfgang Amadeus Mozart,https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart,39542
+32,Ludwig van Beethoven,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven,61926
+33,Jazz,https://en.wikipedia.org/wiki/Jazz,99264
+34,Rock music,https://en.wikipedia.org/wiki/Rock_music,86367
+35,Hip-hop,https://en.wikipedia.org/wiki/Hip-hop,50151
+36,Animation,https://en.wikipedia.org/wiki/Animation,40066
+37,Anime,https://en.wikipedia.org/wiki/Anime,50017
+38,Video game,https://en.wikipedia.org/wiki/Video_game,68034
+39,Philosophy,https://en.wikipedia.org/wiki/Philosophy,42804
+40,Psychology,https://en.wikipedia.org/wiki/Psychology,109591
+41,Sociology,https://en.wikipedia.org/wiki/Sociology,88671
+42,Economics,https://en.wikipedia.org/wiki/Economics,71650
+43,Politics,https://en.wikipedia.org/wiki/Politics,35122
+44,Mathematics,https://en.wikipedia.org/wiki/Mathematics,55199
+45,Algebra,https://en.wikipedia.org/wiki/Algebra,55297
+46,Calculus,https://en.wikipedia.org/wiki/Calculus,44352
+47,Geometry,https://en.wikipedia.org/wiki/Geometry,32501
+48,Statistics,https://en.wikipedia.org/wiki/Statistics,45859
+49,Artificial intelligence,https://en.wikipedia.org/wiki/Artificial_intelligence,89997
+50,Machine learning,https://en.wikipedia.org/wiki/Machine_learning,59604
+51,Deep learning,https://en.wikipedia.org/wiki/Deep_learning,56564
+52,Natural language processing,https://en.wikipedia.org/wiki/Natural_language_processing,32394
+53,Computer vision,https://en.wikipedia.org/wiki/Computer_vision,38867
+54,Python (programming language),https://en.wikipedia.org/wiki/Python_(programming_language),39176
