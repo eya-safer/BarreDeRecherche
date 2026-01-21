@@ -1,25 +1,18 @@
 # Mini Web Search Engine 🕸️🔍
 
-Projet complet de moteur de recherche en Python, implémentant un modèle de Recherche d'Information (RI) **Probabiliste (BM25)** sur un corpus de documents Wikipédia.
+Projet complet de moteur de recherche en Python, implémentant un modèle de Recherche d'Information (RI) **Probabiliste (BM25)** et **Vectoriel (TF-IDF)** sur un corpus de documents Wikipédia.
 
 ## 📋 Description
 Ce projet vise à concevoir et développer la chaîne complète d'un moteur de recherche :
 1.  **Collecte** : Récupération d'articles via l'API Wikipédia.
 2.  **Indexation** : Création d'un index inversé avec prétraitement (Stemming, Stopwords).
-3.  **Recherche** : Algorithme de ranking **BM25**.
+3.  **Recherche** : Algorithme de ranking **BM25** et **TF-IDF**.
 4.  **Interface** : Application Web interactive avec Streamlit.
 5.  **Évaluation** : Calculs de Précision, Rappel et F-Mesure.
 
 ## 🧠 Modèle de RI Choisi
 **Modèle Probabiliste : Okapi BM25**
-
-### Justification
-J'ai choisi le modèle **BM25** (Best Matching 25) car il est considéré comme l'état de l'art des modèles de RI traditionnels (avant l'ère des réseaux de neurones profonds). 
-
-Ses avantages par rapport au modèle Vectoriel (TF-IDF) ou Booléen :
-*   **Saturation de la fréquence des termes (TF)** : Contrairement à TF-IDF où le score augmente linéairement, BM25 sature (un mot répété 100 fois n'est pas 100 fois plus pertinent que s'il apparait 5 fois).
-*   **Normalisation de la longueur** : Il prend en compte la longueur des documents. Un mot-clé trouvé dans un document court a plus de poids que dans un document très long.
-*   **Probabiliste** : Il est fondé sur le principe de probabilité de pertinence (Probability Ranking Principle).
+**Modèle Vectoriel : TF-IDF**
 
 ## 🚀 Installation
 
@@ -89,6 +82,9 @@ Voir [ARCHITECTURE.md](ARCHITECTURE.md) pour les détails techniques.
 | `data/` | Contient les documents JSON et l'index |
 
 ## 📸 Captures d'écran
-*(Ajoutez ici vos captures d'écran de l'interface Streamlit)*
-"# BarreDeRecherche" 
-"# BarreDeRecherche" 
+<img width="1913" height="847" alt="image" src="https://github.com/user-attachments/assets/5c37bb1c-0eec-4104-b15d-e7b1ea8c7996" />
+<img width="1909" height="911" alt="image" src="https://github.com/user-attachments/assets/212bdd6e-7dde-412e-b8b2-5084c57dc7fc" />
+<img width="1920" height="660" alt="image" src="https://github.com/user-attachments/assets/18b2ccca-12f9-43fe-bb79-9e3acb126aeb" />
+
+
+
